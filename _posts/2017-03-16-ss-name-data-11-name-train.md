@@ -299,3 +299,5 @@ not sure what metric I could use to find the ideal weighting factor for favorite
 
 ![ss-name-data-11-name-train_147.gif](../../../assets/2017/03/16/ss-name-data-11-name-train-500px/ss-name-data-11-name-train_147.gif)
 
+![ss-name-data-11-name-train_148.gif](../../../assets/2017/03/16/ss-name-data-11-name-train-500px/ss-name-data-11-name-train_148.gif)
+
