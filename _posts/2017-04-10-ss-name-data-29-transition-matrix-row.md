@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ss name data 29 transition matrix row"
-gif: assets/2017/04/10/ss-name-data-29-transition-matrix-row-500px/ss-name-data-29-transition-matrix-row_21.gif
+gif: assets/2017/04/10/ss-name-data-29-transition-matrix-row-500px/ss-name-data-29-transition-matrix-row_43.gif
 date: 2017-04-10
 ---
 
@@ -67,7 +67,7 @@ date: 2017-04-10
 
 ![ss-name-data-29-transition-matrix-row_31.gif](../../../assets/2017/04/10/ss-name-data-29-transition-matrix-row-500px/ss-name-data-29-transition-matrix-row_31.gif)
 
-# transition row for \[OpenCurlyDoubleQuote]a\[CloseCurlyDoubleQuote]
+![ss-name-data-29-transition-matrix-row_32.gif](../../../assets/2017/04/10/ss-name-data-29-transition-matrix-row-500px/ss-name-data-29-transition-matrix-row_32.gif)
 
 ![ss-name-data-29-transition-matrix-row_33.gif](../../../assets/2017/04/10/ss-name-data-29-transition-matrix-row-500px/ss-name-data-29-transition-matrix-row_33.gif)
 
@@ -75,7 +75,7 @@ date: 2017-04-10
 
 ![ss-name-data-29-transition-matrix-row_35.gif](../../../assets/2017/04/10/ss-name-data-29-transition-matrix-row-500px/ss-name-data-29-transition-matrix-row_35.gif)
 
-![ss-name-data-29-transition-matrix-row_36.gif](../../../assets/2017/04/10/ss-name-data-29-transition-matrix-row-500px/ss-name-data-29-transition-matrix-row_36.gif)
+# a, b, c .... x, y, z
 
 ![ss-name-data-29-transition-matrix-row_37.gif](../../../assets/2017/04/10/ss-name-data-29-transition-matrix-row-500px/ss-name-data-29-transition-matrix-row_37.gif)
 
@@ -85,39 +85,9 @@ date: 2017-04-10
 
 ![ss-name-data-29-transition-matrix-row_40.gif](../../../assets/2017/04/10/ss-name-data-29-transition-matrix-row-500px/ss-name-data-29-transition-matrix-row_40.gif)
 
-# transition row for \[OpenCurlyDoubleQuote]b\[CloseCurlyDoubleQuote]
+![ss-name-data-29-transition-matrix-row_41.gif](../../../assets/2017/04/10/ss-name-data-29-transition-matrix-row-500px/ss-name-data-29-transition-matrix-row_41.gif)
 
 ![ss-name-data-29-transition-matrix-row_42.gif](../../../assets/2017/04/10/ss-name-data-29-transition-matrix-row-500px/ss-name-data-29-transition-matrix-row_42.gif)
 
 ![ss-name-data-29-transition-matrix-row_43.gif](../../../assets/2017/04/10/ss-name-data-29-transition-matrix-row-500px/ss-name-data-29-transition-matrix-row_43.gif)
-
-![ss-name-data-29-transition-matrix-row_44.gif](../../../assets/2017/04/10/ss-name-data-29-transition-matrix-row-500px/ss-name-data-29-transition-matrix-row_44.gif)
-
-![ss-name-data-29-transition-matrix-row_45.gif](../../../assets/2017/04/10/ss-name-data-29-transition-matrix-row-500px/ss-name-data-29-transition-matrix-row_45.gif)
-
-![ss-name-data-29-transition-matrix-row_46.gif](../../../assets/2017/04/10/ss-name-data-29-transition-matrix-row-500px/ss-name-data-29-transition-matrix-row_46.gif)
-
-![ss-name-data-29-transition-matrix-row_47.gif](../../../assets/2017/04/10/ss-name-data-29-transition-matrix-row-500px/ss-name-data-29-transition-matrix-row_47.gif)
-
-![ss-name-data-29-transition-matrix-row_48.gif](../../../assets/2017/04/10/ss-name-data-29-transition-matrix-row-500px/ss-name-data-29-transition-matrix-row_48.gif)
-
-![ss-name-data-29-transition-matrix-row_49.gif](../../../assets/2017/04/10/ss-name-data-29-transition-matrix-row-500px/ss-name-data-29-transition-matrix-row_49.gif)
-
-# transition row for \[OpenCurlyDoubleQuote]c\[CloseCurlyDoubleQuote]
-
-![ss-name-data-29-transition-matrix-row_51.gif](../../../assets/2017/04/10/ss-name-data-29-transition-matrix-row-500px/ss-name-data-29-transition-matrix-row_51.gif)
-
-![ss-name-data-29-transition-matrix-row_52.gif](../../../assets/2017/04/10/ss-name-data-29-transition-matrix-row-500px/ss-name-data-29-transition-matrix-row_52.gif)
-
-![ss-name-data-29-transition-matrix-row_53.gif](../../../assets/2017/04/10/ss-name-data-29-transition-matrix-row-500px/ss-name-data-29-transition-matrix-row_53.gif)
-
-![ss-name-data-29-transition-matrix-row_54.gif](../../../assets/2017/04/10/ss-name-data-29-transition-matrix-row-500px/ss-name-data-29-transition-matrix-row_54.gif)
-
-![ss-name-data-29-transition-matrix-row_55.gif](../../../assets/2017/04/10/ss-name-data-29-transition-matrix-row-500px/ss-name-data-29-transition-matrix-row_55.gif)
-
-![ss-name-data-29-transition-matrix-row_56.gif](../../../assets/2017/04/10/ss-name-data-29-transition-matrix-row-500px/ss-name-data-29-transition-matrix-row_56.gif)
-
-![ss-name-data-29-transition-matrix-row_57.gif](../../../assets/2017/04/10/ss-name-data-29-transition-matrix-row-500px/ss-name-data-29-transition-matrix-row_57.gif)
-
-![ss-name-data-29-transition-matrix-row_58.gif](../../../assets/2017/04/10/ss-name-data-29-transition-matrix-row-500px/ss-name-data-29-transition-matrix-row_58.gif)
 
