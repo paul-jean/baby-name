@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ss name data 39 classify generated names"
-gif: assets/2017/07/06/ss-name-data-39-classify-generated-names-600px/ss-name-data-39-classify-generated-names_81.gif
+gif: assets/2017/07/06/ss-name-data-39-classify-generated-names-600px/ss-name-data-39-classify-generated-names_180.gif
 date: 2017-07-06
 ---
 
