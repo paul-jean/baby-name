@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ss name data 41 transition tensor"
-gif: assets/2017/07/26/ss-name-data-41-transition-tensor-600px/ss-name-data-41-transition-tensor_64.gif
+gif: assets/2017/07/26/ss-name-data-41-transition-tensor-600px/ss-name-data-41-transition-tensor_67.gif
 date: 2017-07-26
 ---
 
