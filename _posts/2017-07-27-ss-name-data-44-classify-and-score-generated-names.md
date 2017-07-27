@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ss name data 44 classify and score generated names"
-gif: assets/2017/07/27/ss-name-data-44-classify-and-score-generated-names-600px/ss-name-data-44-classify-and-score-generated-names_19.gif
+gif: assets/2017/07/27/ss-name-data-44-classify-and-score-generated-names-600px/ss-name-data-44-classify-and-score-generated-names_40.gif
 date: 2017-07-27
 ---
 
