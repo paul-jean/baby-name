@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ss name data 43 tensor name score"
-gif: assets/2017/07/27/ss-name-data-43-tensor-name-score-600px/ss-name-data-43-tensor-name-score_20.gif
+gif: assets/2017/07/27/ss-name-data-43-tensor-name-score-600px/ss-name-data-43-tensor-name-score_28.gif
 date: 2017-07-27
 ---
 
