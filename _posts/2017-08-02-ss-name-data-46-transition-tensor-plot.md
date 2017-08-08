@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ss name data 46 transition tensor plot"
-gif: assets/2017/08/02/ss-name-data-46-transition-tensor-plot-600px/ss-name-data-46-transition-tensor-plot_24.gif
+gif: assets/2017/08/02/ss-name-data-46-transition-tensor-plot-600px/ss-name-data-46-transition-tensor-plot_20.gif
 date: 2017-08-02
 ---
 
